@@ -1,0 +1,23 @@
+.top{
+
+    top: 0;
+    left: 0;
+    right: 100%;
+    height: 45px;
+    display: flex;
+    align-items: center;
+   
+    background-color: #333333;    
+    
+}
+.txtop{
+margin: 6px;
+font-size: 12px;
+color: #9c9c9c;
+}
+
+.txtop:hover{
+    color: beige;
+
+}
+@media(max-width:320px){div{display:none;}}

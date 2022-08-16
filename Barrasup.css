@@ -1,0 +1,25 @@
+header{
+
+    top: 0;
+    left: 0;
+    right: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #126e51;    
+    
+}
+.texto1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+    color: #ffffff;
+ 
+
+}
+.texto2{
+   
+    color: #ffffff;
+    margin-left: 45px
+}
+
